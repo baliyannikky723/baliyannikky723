@@ -5,5 +5,5 @@
 - 👯 Expected year of my graduation is 2027.
 - 🤔 Coding enthusiast.
 - 😄 Eager to learn and explore new things.
-- ⚡ Loves to raed novels, dancing & watching webseries.
+- ⚡ Loves to read novels, dancing & watching webseries.
 
