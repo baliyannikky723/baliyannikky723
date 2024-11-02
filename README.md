@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikky Baliyan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baliyannikky723&label=Profile%20views&color=0e75b6&style=flat" alt="baliyannikky723" /> </p>
 
